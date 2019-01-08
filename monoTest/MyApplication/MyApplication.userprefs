@@ -2,4 +2,15 @@
   <DisabledProjects>
     <String>MyClass/MyClass.csproj</String>
   </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyApplication/Program.cs">
+    <Files>
+      <File FileName="MyApplication/Program.cs" Line="11" Column="48" />
+      <File FileName="MyLibrary/MyClass.cs" Line="15" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

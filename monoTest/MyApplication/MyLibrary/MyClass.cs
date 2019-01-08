@@ -7,6 +7,12 @@ namespace MyLibrary
 		public MyClass ()
 		{
 		}
+
+		public string MyName {
+			get;
+			set;
+		}
+
 	}
 }
 
