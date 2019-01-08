@@ -1,0 +1,5 @@
+﻿<Properties StartupItem="MyApplication/MyApplication.csproj">
+  <DisabledProjects>
+    <String>MyClass/MyClass.csproj</String>
+  </DisabledProjects>
+</Properties>
